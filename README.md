@@ -106,10 +106,12 @@ This project analyzes McDonald's sales data (5,370 orders, $61,626.29 revenue) t
 
   - Time slots: Analyze hourly/daily trends.
 
-# 🌐 Connect & License
+# 🌐 Connect
 
 - Author: [Sagar Kumar]
 
-- LinkedIn: [Your Profile]
+- LinkedIn: [www.linkedin.com/in/sagar49]
 
-- License: MIT (Open-source for learning purposes).
+## 📜 License 
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)  
+Copyright © 2025 [Sagarkumar49](https://github.com/Sagarkumar49)
